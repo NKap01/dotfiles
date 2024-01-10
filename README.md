@@ -1,5 +1,6 @@
 # dotfiles
-my linux dotfiles:
+tested with Pop_OS 21.10 running Linux kernel 5.16 LTS
+<br>my linux dotfiles:
 | Software | Purpose |
 | --- | --- |
 | alacritty | terminal |

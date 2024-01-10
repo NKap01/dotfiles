@@ -1,3 +1,0 @@
-mkdir given folders in 
-/home/aneesh/.config/
-=======================================

@@ -1,0 +1,82 @@
+# Colors (Dracula)
+colors:
+  # Default colors
+  primary:
+    background: '#282a36'
+    foreground: '#f8f8f2'
+
+  # Normal colors
+  normal:
+    black:   '#000000'
+    red:     '#ff5555'
+    green:   '#50fa7b'
+    yellow:  '#f1fa8c'
+    blue:    '#caa9fa'
+    magenta: '#ff79c6'
+    cyan:    '#8be9fd'
+    white:   '#bfbfbf'
+
+  # Bright colors
+  bright:
+    black:   '#575b70'
+    red:     '#ff6e67'
+    green:   '#5af78e'
+    yellow:  '#f4f99d'
+    blue:    '#caa9fa'
+    magenta: '#ff92d0'
+    cyan:    '#9aedfe'
+    white:   '#e6e6e6'
+
+font:
+  normal:
+    family: Source Code Pro
+    style: Regular
+
+  bold:
+    family: Source Code Pro
+    style: Bold
+
+  italic:
+    family: Source Code Pro
+    style: Italic
+
+  bold_italic:
+    family: Source Code Pro
+    style: Bold Italic
+
+  size: 11
+  
+  padding:
+    x: 7
+    y: 7
+  
+    # Window title
+    title: Alacritty ~Aneesh@Pop!-Os
+
+  class:
+    instance: Alacritty
+    general: Alacritty
+    
+    # Offset is the extra space around each character. `offset.y` can be thought of
+    # as modifying the line spacing, and `offset.x` as modifying the letter spacing.
+  offset:
+    x: 0
+    y: 1
+
+    # If `true`, bold text is drawn using the bright color variants.
+draw_bold_text_with_bright_colors: true
+background_opacity: 0.75
+
+cursor:
+    #  ▇ Block, _ underline, | beam
+    style: Beam
+unfocused_hollow: true
+    
+shell:
+    # /bin/bash or /bin/fish
+    program: /bin/fish
+    #args: 
+
+    
+    
+    

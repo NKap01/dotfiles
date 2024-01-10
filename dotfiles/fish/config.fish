@@ -1,0 +1,2 @@
+figlet legend
+fortune -as
